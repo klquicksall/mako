@@ -2,4 +2,4 @@
 
 
 
-make ARCH=arm CROSS_COMPILE=/home/ken/android/gcc-arm-none-eabi-4_6-2012q2/bin/arm-none-eabi- EXTRA_AFLAGS=-mfpu=neon menuconfig
+make ARCH=arm CROSS_COMPILE=/home/ken/android/android_prebuilts_gcc_linux-x86-32_arm_arm-linux-androideabi-4.6-jellybean/bin/arm-linux-androideabi- menuconfig
